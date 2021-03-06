@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/covid-state-app/static/css/main.0d54c4e1.chunk.css",
+    "main.js": "/covid-state-app/static/js/main.93eeedf6.chunk.js",
+    "main.js.map": "/covid-state-app/static/js/main.93eeedf6.chunk.js.map",
+    "runtime-main.js": "/covid-state-app/static/js/runtime-main.00845e31.js",
+    "runtime-main.js.map": "/covid-state-app/static/js/runtime-main.00845e31.js.map",
+    "static/js/2.628e02cf.chunk.js": "/covid-state-app/static/js/2.628e02cf.chunk.js",
+    "static/js/2.628e02cf.chunk.js.map": "/covid-state-app/static/js/2.628e02cf.chunk.js.map",
+    "index.html": "/covid-state-app/index.html",
+    "static/css/main.0d54c4e1.chunk.css.map": "/covid-state-app/static/css/main.0d54c4e1.chunk.css.map",
+    "static/js/2.628e02cf.chunk.js.LICENSE.txt": "/covid-state-app/static/js/2.628e02cf.chunk.js.LICENSE.txt",
+    "static/media/image.9e5d4fc7.png": "/covid-state-app/static/media/image.9e5d4fc7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00845e31.js",
+    "static/js/2.628e02cf.chunk.js",
+    "static/css/main.0d54c4e1.chunk.css",
+    "static/js/main.93eeedf6.chunk.js"
+  ]
+}
